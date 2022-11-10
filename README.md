@@ -1,6 +1,6 @@
 # COVID-19 Tracker
-### NAME: ADARSH KUMAR SINGH
-### Website : https://adarshaks19.github.io/COVID-TRACKER/
+### NAME: AJITESH HARSHIT
+### Website :https://ajiteshharshit.github.io/covid-tracker/
 ### Milestones Achieved
 1. Fetching the world data using API(Total cases,Active cases,Deaths,Recovered cases,New Cases Today,Deaths today).
 2. Fetching Data of any Country entered by the user using API(Total cases,Active cases,Deaths,Recovered cases,New Cases Today,Deaths today).
